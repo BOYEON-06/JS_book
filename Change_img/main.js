@@ -3,8 +3,8 @@ pic.addEventListener("mouseover", changePic, false);
 pic.addEventListener("mouseout", originPic, false);
 
 function changePic(){
-    pic.src = "images/rupi.jpg";
+    pic.src = "../images/rupi.jpg";
 }
 function originPic(){
-    pic.src = "images/pororo.jpg"
+    pic.src = "../images/pororo.jpg"
 }

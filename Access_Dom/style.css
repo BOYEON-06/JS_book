@@ -1,0 +1,30 @@
+#desc {
+    position: relative;
+     font-size: 24px;
+     height: 500px;
+     bottom: 21em;
+     right: 100px;
+     margin-left: 30em;
+     margin-bottom: 10em;
+  }
+  
+div div p {
+    position:relative;
+    top: 50px;
+  }
+  
+#img {
+    position: relative;
+    margin-right: 80em;
+    top: 1px;
+    left:150px;
+  
+  }
+  
+#heading {
+    position: relative;
+    font-size: 50px;
+    top: 25px;
+    left: 5em;
+  }
+  
